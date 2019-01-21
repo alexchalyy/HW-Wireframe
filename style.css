@@ -72,7 +72,7 @@ footer
     background: #777;
     position: relative;
     margin: 10px;
-    height: 174x;
+    height: 180px;
     padding: 1px;
 }
 
@@ -90,7 +90,6 @@ footer
 #paragraph
 {
     background: #ebebeb;
-   /* background: orange; */
     color:  #777; 
     padding: 10px;
     position: relative;
@@ -99,5 +98,39 @@ footer
     margin: 10px;
     height: 20px;
     margin-right: 2px;
-    margin-bottom: 1px;
+    margin-top: 80px;
 }
+
+#header1   {
+    background: #ebebeb;
+    color: #777;
+    float: left;
+    text-align: right;
+    padding: 10px;
+    margin-left: 10px;
+    width: 41%;
+    padding-right: -20px;
+    padding-right: -20%;
+}
+
+#header2    {
+    background: #ebebeb;
+    color: #777;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    width: 5%;
+    padding-left: 1px;
+    padding-right: 1px;
+}
+
+#header3    {
+    background: #ebebeb;
+    color: #777;
+    float: left;
+    text-align: left;
+    padding: 10px;
+    width: 41%;
+    padding-left: -10px;
+}
+ 
